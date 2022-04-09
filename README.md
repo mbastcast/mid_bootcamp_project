@@ -8,7 +8,7 @@ Attempt to gain a deeper understanding of our dataset by using MySQL.
 
 -Observing Qualities and answering business questions
 
--We observed better unique values of columns, what sort of association they have with each other, the average price of properties
+-We observed better unique values of columns, what sort of association they have with each other, the average price of properties, etc
 
 -Business questions Data Analysts can quickly refer to when asked about specific properties
 
