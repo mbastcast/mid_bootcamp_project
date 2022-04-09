@@ -3,26 +3,22 @@
 
 ## MySQL Exploration
 Attempt to gain a deeper understanding of our dataset by using MySQL. 
-Uploading dataset into a Database
-Creating Table
-Observing Qualities and answering business questions
-We observed better unique values of columns, what sort of association they have with each other, the average price of properties
- Business questions Data Analysts can quickly refer to when asked about specific properties
-IDs of the top 10 most expensive houses in your data.
-Average price of all the properties
-Average price of the houses grouped by bedrooms?
-Average sqft_living of the houses grouped by bedrooms?
-Average price of the houses with a waterfront and without a waterfront
-Correlation between the columns condition and grade? You can 
-Searching specific houses by the conditions clients put
-Properties whose prices are twice more than the average 
-Difference in average prices of the properties with three and four bedrooms?
- Different locations where properties are available in your database? (distinct zip codes)
-Properties that were renovated.
+
+-Uploading dataset into a Database/ Creating Table
+
+-Observing Qualities and answering business questions
+
+-We observed better unique values of columns, what sort of association they have with each other, the average price of properties
+
+-Business questions Data Analysts can quickly refer to when asked about specific properties
+
+[SQL Queries](https://github.com/mbastcast/mid_bootcamp_project/blob/main/SQL%20QUESTIONS.sql "SQL QUERIES")
+
 
 ## Tableau Visualisation 
-Visualize the data and dig further into it. Investigation on the most costly areas, the most in demand types of homes, and the years in which newly constructed properties cost more.
+Visualize the data and dig further into it. Investigation on the most costly areas, the most in demand types of homes, and the years in which newly constructed properties cost and more.
 
+[Tableau Dashboard](https://public.tableau.com/views/MIDBOOTCAMPPROJECTstory_16491455911420/Historia1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link "Tableau Dashboard")
 
 ## Regression models in Python
 Following our exploration of the dataset, we began cleaning it in Python and preparing it for model creation.
@@ -46,5 +42,6 @@ Models i will use:
           - LinearRegression
           - MLP 
           - KNN
+[Python Full Script](https://github.com/mbastcast/mid_bootcamp_project/blob/main/FINAL%20PROJECT%20PYTHON.ipynb "Python Full Script")
 
 
