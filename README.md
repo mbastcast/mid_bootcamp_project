@@ -42,6 +42,7 @@ Models i will use:
           - LinearRegression
           - MLP 
           - KNN
+
 [Python Full Script](https://github.com/mbastcast/mid_bootcamp_project/blob/main/FINAL%20PROJECT%20PYTHON.ipynb "Python Full Script")
 
 
