@@ -30,17 +30,25 @@ Plots using matplot and seaborn
 Create a new date column for only month and year
 Create a new colum with age of the property
 Categorizing Zipcodes
+
 Models i will use:
+          
           - LinearRegression
+          
           - MLP 
+          
           - KNN
 ### 2nd Round:
 Dropping columns with low correlation to target
 Dealing with outliers
 Normalizing 
+
 Models i will use:
+         
           - LinearRegression
+          
           - MLP 
+          
           - KNN
 
 [Python Full Script](https://github.com/mbastcast/mid_bootcamp_project/blob/main/FINAL%20PROJECT%20PYTHON.ipynb "Python Full Script")
