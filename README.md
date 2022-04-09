@@ -39,9 +39,7 @@ Models i will use:
           
           - KNN
 ### 2nd Round:
-Dropping columns with low correlation to target
-Dealing with outliers
-Normalizing 
+Dropping columns with low correlation to target, dealing with outliers and normalizing 
 
 Models i will use:
          
